@@ -1,0 +1,12 @@
+Cancer Test Results
+In this section, you'll find a simulated dataset on cancer test results for patients and whether they really have cancer. Explore cancer_test_data.csv in the Jupyter notebook to answer the following questions.
+
+How many patients are there in total?
+How many patients have cancer?
+How many patients do not have cancer?
+What proportion of patients have cancer?
+What proportion of patients don't have cancer?
+What proportion of patients with cancer test positive?
+What proportion of patients with cancer test negative?
+What proportion of patients without cancer test positive?
+What proportion of patients without cancer test negative?

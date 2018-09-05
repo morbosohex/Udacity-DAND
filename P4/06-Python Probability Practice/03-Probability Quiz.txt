@@ -1,0 +1,14 @@
+Probability Quiz
+In this quiz, you will simulate coin flips and die rolls to compute proportions for the following outcomes.
+
+Two fair coin flips produce exactly two heads
+Three fair coin flips produce exactly one head
+Three biased coin flips with P(H) = 0.6 produce exactly one head
+A die rolls an even number
+Two dice roll a double
+Then, you'll compare these proportions with probabilities in the quizzes below.
+
+When simulating coin flips, use 0 to represent heads and 1 to represent tails. When simulating die rolls, use the correct integers to match the numbers on the sides of a standard 6 sided die.
+
+Also, notice that you can look at the solutions if you get stuck by clicking the orange button in the top left.
+

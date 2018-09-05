@@ -1,0 +1,9 @@
+Binomial Distributions Quiz
+In this quiz, you will simulate coin flips using np.random.binomial compute proportions for the following outcomes.
+
+A fair coin flip produces heads
+Five fair coin flips produce exactly one head
+Ten fair coin flips produce exactly four heads
+Five biased coin flips with P(H) = 0.8 produce exactly five heads
+Ten biased coin flips with P(H) = 0.15 produce exactly three heads
+Then, you'll compare these proportions with probabilities in the quizzes below.

@@ -1,0 +1,27 @@
+Conditional Probability & Bayes Rule Quiz
+In the previous section, you found the following proportions from the cancer results dataset.
+
+Patients with cancer: 0.105
+Patients without cancer: 0.895
+Patients with cancer who tested positive: 0.905
+Patients with cancer who tested negative: 0.095
+Patients without cancer who tested positive: 0.204
+Patients without cancer who tested negative: 0.796
+Based on the above proportions observed in the data, we can assume the following probabilities.
+
+Probability	Meaning
+P(cancer) = 0.105	Probability a patient has cancer
+P(~cancer) = 0.895	Probability a patient does not have cancer
+P(positive|cancer) = 0.905	Probability a patient with cancer tests positive
+P(negative|cancer) = 0.095	Probability a patient with cancer tests negative
+P(positive|~cancer) = 0.204	Probability a patient without cancer tests positive
+P(negative|~cancer) = 0.796	Probability a patient without cancer tests negative
+Quiz Questions
+Use the probabilities given above and Bayes rule to compute the following probabilities.
+
+Probability a patient who tested positive has cancer, or P(cancer|positive)
+Probability a patient who tested positive doesn't have cancer, or P(~cancer|positive)
+Probability a patient who tested negative has cancer, or P(cancer|negative)
+Probability a patient who tested negative doesn't have cancer, or P(~cancer|negative)
+Then, use the Jupyter notebook to compare them to true proportions in the dataset.
+
